@@ -1,5 +1,7 @@
 # MacroRecorder
 
+Yes, this was vibecoded. I needed this mod for myself, and I wasn't trying to learn java. Figured that making it public couldn't hurt :)
+
 Record what you do in Minecraft, then play it back.
 
 MacroRecorder is a **client-side** Fabric mod. Start recording with a command, do whatever you want —
