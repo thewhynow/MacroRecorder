@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.thewhynow.macromod.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"KeyMappingMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
